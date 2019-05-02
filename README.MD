@@ -13,3 +13,6 @@ Uses the Simpson's 1/3 and trapezoidal rule for approximating the definite integ
 
 #### LU Matrix Decomposition "luFactor"
 Uses LU Matrix Decomopsition (facotization) to create an upper and lower triangular matrix, as well as an identity matrix.
+
+#### Day Counter
+Determines the days elapsed in a year based off the inputed date.
